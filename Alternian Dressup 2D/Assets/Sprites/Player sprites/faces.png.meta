@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 816a0e4657893e04599f6385d79b22a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 352667614993179775
+    second: L BROW 1
+  - first:
+      213: 6728078740956168734
+    second: R BROW 1
+  - first:
+      213: 2238136341015891335
+    second: L EYE 1
+  - first:
+      213: -2624413391016279276
+    second: R EYE 1
+  - first:
+      213: 2530920999617147776
+    second: MOUTH 1
+  - first:
+      213: 7442159267756367299
+    second: L BROW 2
+  - first:
+      213: -5538499448761425303
+    second: R BROW 2
+  - first:
+      213: 7285378032234747418
+    second: L BROW 7
+  - first:
+      213: 3198389807996173960
+    second: R BROW 7
+  - first:
+      213: -2074937458446889176
+    second: L EYE 2
+  - first:
+      213: -651618223169677125
+    second: R EYE 2
+  - first:
+      213: -5152761847031115688
+    second: L EYE 6
+  - first:
+      213: 3007444510408479581
+    second: R EYE 6
+  - first:
+      213: -2666292968081224903
+    second: MOUTH 2
+  - first:
+      213: 8882280879277773011
+    second: MOUTH 9
+  - first:
+      213: -7250960061349751471
+    second: L BROW 6
+  - first:
+      213: 8356112446175594157
+    second: R BROW 6
+  - first:
+      213: 2506049593498911518
+    second: L BROW 3
+  - first:
+      213: -450845213116800906
+    second: R BROW 3
+  - first:
+      213: 6197401135021240575
+    second: GLASSES 2
+  - first:
+      213: 8831791607200702944
+    second: L EYE 3
+  - first:
+      213: 3579942659963824647
+    second: R EYE 3
+  - first:
+      213: -8600489181971308638
+    second: GLASSES 1
+  - first:
+      213: 267498661588769530
+    second: MOUTH 8
+  - first:
+      213: -1943692918253769684
+    second: MOUTH 3
+  - first:
+      213: 569629394695955932
+    second: MOUTH 7
+  - first:
+      213: -6326167726845384114
+    second: L BROW 4
+  - first:
+      213: 5497598687269520118
+    second: R BROW 4
+  - first:
+      213: 2267106484218299053
+    second: GLASSES 3
+  - first:
+      213: 4954251002642503922
+    second: L EYE 4
+  - first:
+      213: -6549313956678622
+    second: R EYE 4
+  - first:
+      213: -1468255772577320901
+    second: MOUTH 5
+  - first:
+      213: -1774973208174248187
+    second: faces_33
+  - first:
+      213: 6651043910285514266
+    second: GLASSES 4
+  - first:
+      213: 6981929142657256258
+    second: L BROW 5
+  - first:
+      213: 1237711229407519682
+    second: R BROW 5
+  - first:
+      213: 5493906183888088140
+    second: MOUTH 6
+  - first:
+      213: 2664279084716755864
+    second: L EYE 5
+  - first:
+      213: 2455517301280668337
+    second: R EYE 5
+  - first:
+      213: 6484281829994685315
+    second: MOUTH 4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L BROW 1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 406
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e37bc35de4e400800000000000000
+      internalID: 352667614993179775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 406
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12cc8fc7ffee5d50800000000000000
+      internalID: 6728078740956168734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L EYE 1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 367
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d052dd4257f0f10800000000000000
+      internalID: 2238136341015891335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R EYE 1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 367
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41342b4fce5349bd0800000000000000
+      internalID: -2624413391016279276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 347
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b1c06d33af1320800000000000000
+      internalID: 2530920999617147776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L BROW 2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 308
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cddf7c7c6cd74760800000000000000
+      internalID: 7442159267756367299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 308
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e0e7781c4323b0800000000000000
+      internalID: -5538499448761425303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L BROW 7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 308
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1659c188bcda1560800000000000000
+      internalID: 7285378032234747418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e77d6a596f26c20800000000000000
+      internalID: 3198389807996173960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L EYE 2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 277
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0f1200675433e0800000000000000
+      internalID: -2074937458446889176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R EYE 2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 277
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8dcceadacf4f6f0800000000000000
+      internalID: -651618223169677125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L EYE 6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 277
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850568f8666bd78b0800000000000000
+      internalID: -5152761847031115688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R EYE 6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 277
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53989c19d69cb920800000000000000
+      internalID: 3007444510408479581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 255
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b85621cac6ffad0800000000000000
+      internalID: -2666292968081224903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 254
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0989c3663344b70800000000000000
+      internalID: 8882280879277773011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L BROW 6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 241
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15514becd3a6f5b90800000000000000
+      internalID: -7250960061349751471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 241
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da644894fffd6f370800000000000000
+      internalID: 8356112446175594157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L BROW 3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 234
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c302e3d647c220800000000000000
+      internalID: 2506049593498911518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 234
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ec77daa64eb9f0800000000000000
+      internalID: -450845213116800906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLASSES 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 145
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03b8f3f77910650800000000000000
+      internalID: 6197401135021240575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L EYE 3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 199
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e169758ca3d09a70800000000000000
+      internalID: 8831791607200702944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R EYE 3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 199
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2963c1e28ea130800000000000000
+      internalID: 3579942659963824647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLASSES 1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 182
+        width: 143
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af920608ace4a880800000000000000
+      internalID: -8600489181971308638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 165
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa14ed8d9856b300800000000000000
+      internalID: 267498661588769530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2caa07c69d9605e0800000000000000
+      internalID: -1943692918253769684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 164
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5297c9aeab7e700800000000000000
+      internalID: 569629394695955932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L BROW 4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a27db48ffe438a0800000000000000
+      internalID: -6326167726845384114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 153
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28a58e0e46b4c40800000000000000
+      internalID: 5497598687269520118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLASSES 3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 110
+        width: 123
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da201d3f551667f10800000000000000
+      internalID: 2267106484218299053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L EYE 4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 129
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f811a4c90901c440800000000000000
+      internalID: 4954251002642503922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R EYE 4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 129
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f6140f6bb8eff0800000000000000
+      internalID: -6549313956678622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 92
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30bc1c6725bf9be0800000000000000
+      internalID: -1468255772577320901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 84
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f30f875470e57e0800000000000000
+      internalID: -1774973208174248187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLASSES 4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 78
+        width: 159
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16d71a92314d4c50800000000000000
+      internalID: 6651043910285514266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L BROW 5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 65
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b880b309bc4e060800000000000000
+      internalID: 6981929142657256258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R BROW 5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 65
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3e8533ecb3d2110800000000000000
+      internalID: 1237711229407519682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 62
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca8f7f0964e3c40800000000000000
+      internalID: 5493906183888088140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L EYE 5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 28
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8b0b26bb69f420800000000000000
+      internalID: 2664279084716755864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R EYE 5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 28
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baf8a2c9ffb31220800000000000000
+      internalID: 2455517301280668337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH 4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 55
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836a5c18fbccf950800000000000000
+      internalID: 6484281829994685315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
